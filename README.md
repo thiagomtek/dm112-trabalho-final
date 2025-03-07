@@ -21,7 +21,7 @@ O módulo de logística inclui as seguintes funcionalidades principais:
 ├── src/                # Código-fonte do projeto
 ├── docs/               # Documentação e diagramas
 ├── README.md           # Instruções e descrição do projeto
-└── LICENSE             # Licença do projeto (se aplicável)
+└── LICENSE             # Licença do projeto
 ```
 
 ## Como Executar o Projeto
