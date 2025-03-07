@@ -1,7 +1,7 @@
 # Módulo de Logística do Sistema de Pedidos
 
 ## Descrição
-Este repositório contém o trabalho final da disciplina **DM-112 - Mobile e Cloud** do **Instituto Nacional de Telecomunicações (Inatel)**, desenvolvido por **Thiago Maglioni M. Ribeiro**. O projeto aborda a implementação de um **módulo de logística** para um sistema de pedidos, permitindo o gerenciamento e acompanhamento de entregas.
+Este repositório contém o trabalho final da disciplina **DM-112 - Mobile e Cloud** do **Instituto Nacional de Telecomunicações (Inatel)**, desenvolvido por **Thiago Ribeiro**. O projeto aborda a implementação de um **módulo de logística** para um sistema de pedidos, permitindo o gerenciamento e acompanhamento de entregas.
 
 ## Funcionalidades
 O módulo de logística inclui as seguintes funcionalidades principais:
@@ -27,15 +27,15 @@ O módulo de logística inclui as seguintes funcionalidades principais:
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/thiagomtek/dm112-trabalho-final.git)
    ```
 2. Acesse o diretório do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd dm112-trabalho-final
    ```
 3. Configure as dependências e execute o backend Java.
 4. Verifique se a API REST está rodando corretamente.
 
 ## Contato
-Para mais informações, entre em contato com **Thiago Maglioni M. Ribeiro**.
+Para mais informações, entre em contato com **Thiago Ribeiro**.
 
