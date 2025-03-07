@@ -27,7 +27,7 @@ O módulo de logística inclui as seguintes funcionalidades principais:
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/thiagomtek/dm112-trabalho-final.git)
+   git clone https://github.com/thiagomtek/dm112-trabalho-final.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
