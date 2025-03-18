@@ -90,7 +90,7 @@ public class OrderClient {
 
 	public void confirmOrderDelivery(int orderNumber, String cpf) {
 
-		String url = restURL + endpoint + "/" + orderNumber + "/" + cpf + "/confirmation";
+		String url = restURL + endpoint + "/" + orderNumber + "/" + cpf + "/delivered";
 		System.out.println("URL: " + url);
 
 		makePUTCallWithEmptyBody(orderNumber, url);

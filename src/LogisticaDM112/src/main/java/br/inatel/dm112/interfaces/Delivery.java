@@ -4,6 +4,6 @@ import br.inatel.dm112.model.DeliveryStatus;
 
 public interface Delivery {
 
-	DeliveryStatus confirmDeliverytOfOrder(String cpf, int orderNumber);
+	DeliveryStatus confirmDeliverytOfOrder(String cpf, Integer orderNumber);
 
 }

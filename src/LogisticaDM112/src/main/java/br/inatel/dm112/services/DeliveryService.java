@@ -26,8 +26,8 @@ public class DeliveryService {
 
 		Order order = getOrder(cpf, orderNumber); // (1) consulta o pedido pelo número
 
-		if (order.getStatus() != Order.STATUS.PENDING.ordinal()) {
-			String msg = "Status do pedido " + orderNumber + " inválido: " + order.getStatus();
+		if (order.getStatus() == Order.STATUS.DELIVERED.ordinal()) {
+			String msg = "Status do pedido " + orderNumber + " já entregue: " + order.getStatus();
 			throw DeliveryStatus.createErrorStatus(msg, cpf, orderNumber, DELIVERY_STATUS.WRONG_ORDER_STATUS);
 		}
 		try {
